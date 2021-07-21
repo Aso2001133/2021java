@@ -5,7 +5,7 @@ public class Ship {
     public static int[] x=new int[3];
     public static int[] y=new int[3];
     public static int[] z=new int[3];
-    public static int[] hp={1,1,1};
+    public static int[] hp={3,3,3};
     public static String[] f={"生きている","生きている","生きている"};
 
     public void setShip(int z){
