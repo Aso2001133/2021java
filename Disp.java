@@ -14,7 +14,7 @@ public class Disp {
         System.out.printf("船3:%s\n",c);
     }
     public static void disp2(){
-        System.out.println("爆弾のX座標を入力してください(1-5)"+Ship.x[0]);
+        System.out.println("爆弾のX座標を入力してください(1-5)");
     }
     
     public static void disp3(){
